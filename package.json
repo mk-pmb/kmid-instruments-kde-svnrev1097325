@@ -1,0 +1,27 @@
+{ "name": "kmid-instruments-kde-svnrev1097325",
+  "version": "1.0.3",
+  "description": "Instrument list for KMid from KDE SVN revision 1097325.",
+  "keywords": [ "kmid" ],
+
+  "author": "Pedro Lopez-Cabanillas <plcl@users.sf.net>",
+  "homepage": "https://github.com/mk-pmb/kmid-instruments-kde-svnrev1097325/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/kmid-instruments-kde-svnrev1097325.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/kmid-instruments-kde-svnrev1097325/issues"
+  },
+  "contributors": [
+    "M.K. (https://github.com/mk-pmb)"
+  ],
+
+  "private": false, "license": "GPL-2.0+",
+
+  "main": "dist/kmid-inst.json",
+  "scripts": { "test": "nodejs test.js" },
+  "directories": { "test": "test" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}

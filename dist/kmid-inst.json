@@ -1,4 +1,4 @@
-{ "license": "GPL-2.0+", "extracted_from": "KMid2 MIDI/Karaoke Player", "orig_author": "Copyright (C) 2009-2010 Pedro Lopez-Cabanillas \u003Cplcl@users.sf.net\u003E", "orig_file": "https://websvn.kde.org/trunk/extragear/multimedia/kmid/#svn_file#?revision=#svn_rev#&view=markup&pathrev=#svn_rev#", "instruments": [
+[{"license":"GPL-2.0+","extracted_from":"KMid2 MIDI/Karaoke Player","orig_author":"Copyright (C) 2009-2010 Pedro Lopez-Cabanillas <plcl@users.sf.net>","orig_file":"https://websvn.kde.org/trunk/extragear/multimedia/kmid/src/instrumentset.cpp?revision=1097325&view=markup&pathrev=1097325"},
 "Acoustic Grand Piano",
 "Bright Acoustic Piano",
 "Electric Grand Piano",
@@ -126,4 +126,4 @@
 "Telephone",
 "Helicopter",
 "Applause",
-"Gunshot" ]}
+"Gunshot" ]
