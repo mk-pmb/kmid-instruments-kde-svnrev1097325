@@ -9,7 +9,9 @@ Instrument list for KMid from KDE SVN revision 1097325.
 <!--/#echo -->
 
 If you prefer the GM1 (General MIDI Level 1) patch names,
-check package `midi-instrument-names-gm1-pmb`.
+check package [`midi-instrument-names-gm1-pmb`][gm1-pkg].
+
+  [gm1-pkg]: https://www.npmjs.com/package/midi-instrument-names-gm1-pmb
 
 
 Files
