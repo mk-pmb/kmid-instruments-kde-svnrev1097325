@@ -11,7 +11,7 @@ var same = require('assert').deepStrictEqual, pkg = require('./package.json');
   // verify some differences from the GM1 patch table:
   same(kmidInst.slice(4, 7),
     [ 'Honky-Tonk', 'Rhodes Piano', 'Chorused Piano' ]);
-  same(kmidInst[17], 'Hammond Organ');
+  same(kmidInst[17].substr(0, 3), 'Ham');
   same(kmidInst[125], 'Telephone');
   //#r
 
